@@ -2615,7 +2615,7 @@ hr {
   }
   /* Support Company Area */
 .support-company-area .support-wrapper {
-    display: flex;
+    
     justify-content: space-between;
     flex-wrap: wrap;
   }
